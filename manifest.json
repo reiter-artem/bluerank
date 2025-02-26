@@ -1,0 +1,12 @@
+{
+  "name": "Custom Tooltip",
+  "description": "A custom tooltip visualization",
+  "data": {
+    "dsccConnector": "NONE"
+  },
+  "style": {},
+  "script": {
+    "js": "https://raw.githubusercontent.com/reiter-artem/bluerank/main/tooltip.js",
+    "css": ""
+  }
+}
